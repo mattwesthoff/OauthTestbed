@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OauthTestbed", "OauthTestbed\OauthTestbed.csproj", "{ACCF05AA-D522-43D4-AECF-6C90F07A8EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCF05AA-D522-43D4-AECF-6C90F07A8EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCF05AA-D522-43D4-AECF-6C90F07A8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCF05AA-D522-43D4-AECF-6C90F07A8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCF05AA-D522-43D4-AECF-6C90F07A8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
